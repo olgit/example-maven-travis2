@@ -3,18 +3,18 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.blackducksoftware.test</groupId>
-  <artifactId>example-maven-travis</artifactId>
+  <artifactId>example-maven-travis2</artifactId>
   <version>0.1.0-SNAPSHOT</version>
 
   <name>Black Duck CoPilot Example for Maven/Travis CI</name>
   <description>Provide an example of configuring a Maven project to use the Black Duck CoPilot application</description>
-  <url>https://github.com/BlackDuckCoPilot/example-maven-travis</url>
+  <url>https://github.com/BlackDuckCoPilot/example-maven-travis2</url>
   <inceptionYear>2017</inceptionYear>
 
   <scm>
     <connection>scm:git:git://github.com/blackducksoftware/hub-common.git/</connection>
-    <developerConnection>scm:git:git@github.com:BlackDuckCoPilot/example-maven-travis.git</developerConnection>
-    <url>https://github.com/BlackDuckCoPilot/example-maven-travis</url>
+    <developerConnection>scm:git:git@github.com:BlackDuckCoPilot/example-maven-travis2.git</developerConnection>
+    <url>https://github.com/BlackDuckCoPilot/example-maven-travis2</url>
   </scm>
 
   <properties>
@@ -81,7 +81,7 @@
     <dependency>
       <groupId>commons-beanutils</groupId>
       <artifactId>commons-beanutils</artifactId>
-      <version>1.5.0</version>
+      <version>1.5</version>
     </dependency>
     <dependency>
       <groupId>commons-collections</groupId>

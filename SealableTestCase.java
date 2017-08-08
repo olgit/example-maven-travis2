@@ -80,4 +80,4 @@ public class SealableTestCase extends TestCase {
     }
 }
 
-//Olgas changes
+//Olgas changes - commit to new branch

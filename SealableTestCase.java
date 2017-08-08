@@ -79,3 +79,5 @@ public class SealableTestCase extends TestCase {
         }
     }
 }
+
+//Olgas changes

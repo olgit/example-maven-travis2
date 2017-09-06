@@ -13,4 +13,4 @@ after_success:
 - bash <(curl -s https://copilot.blackducksoftware.com/bash/travis) ./*_bdio.jsonld
 ```
 
-Olga
+Olga Hello Olga Hello Olga

@@ -4,5 +4,4 @@ jdk:
 - oraclejdk8
 
 after_success:
-  - mvn com.blackducksoftware.integration:hub-maven-plugin:2.0.0:build-bom -Dhub.output.directory=. -Dhub.deploy.bdio=false
-  - bash <(curl -s https://test.duckbuild.io/bash/travis) ./*_bdio.jsonld
+  - bash <(curl -s https://test.duckbuild.io/ci/travis/scripts/upload)

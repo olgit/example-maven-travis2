@@ -76,7 +76,7 @@
     <dependency>
       <groupId>commons-beanutils</groupId>
       <artifactId>commons-beanutils</artifactId>
-      <version>1.7.0clean-brew</version>
+      <version>1.7</version>
     </dependency>
     <dependency>
       <groupId>commons-collections</groupId>
